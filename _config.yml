@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+url: "https://ggddgg.github.io/"
+baseurl: ""
 
 # variables
-name: Your Site Name
+name: ggddgg
 description: Your description here
 google_verification: null
 
